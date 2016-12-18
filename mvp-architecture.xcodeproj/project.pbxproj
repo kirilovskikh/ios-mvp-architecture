@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		927A27511E06B1A800A95110 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 927A27501E06B1A800A95110 /* ViewController.swift */; };
 		927A27541E06B1A800A95110 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 927A27521E06B1A800A95110 /* Main.storyboard */; };
 		927A27561E06B1A800A95110 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 927A27551E06B1A800A95110 /* Assets.xcassets */; };
 		927A27591E06B1A800A95110 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 927A27571E06B1A800A95110 /* LaunchScreen.storyboard */; };
@@ -45,7 +44,6 @@
 
 /* Begin PBXFileReference section */
 		927A274B1E06B1A800A95110 /* mvp-architecture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mvp-architecture.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		927A27501E06B1A800A95110 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		927A27531E06B1A800A95110 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		927A27551E06B1A800A95110 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		927A27581E06B1A800A95110 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -121,7 +119,6 @@
 				927A27901E06B2D800A95110 /* mvp */,
 				927A278D1E06B2C100A95110 /* data */,
 				927A27851E06B26E00A95110 /* configuration */,
-				927A27501E06B1A800A95110 /* ViewController.swift */,
 				927A27521E06B1A800A95110 /* Main.storyboard */,
 				927A27551E06B1A800A95110 /* Assets.xcassets */,
 				927A27571E06B1A800A95110 /* LaunchScreen.storyboard */,
@@ -356,7 +353,6 @@
 				927A27A01E06B32200A95110 /* MainView.swift in Sources */,
 				927A279F1E06B32200A95110 /* BaseView.swift in Sources */,
 				927A27991E06B30E00A95110 /* BasePresenterController.swift in Sources */,
-				927A27511E06B1A800A95110 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
